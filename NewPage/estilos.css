@@ -1,0 +1,14 @@
+.container{
+    
+    background-image: url("nav.jpeg");
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    color: #d96459;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+    background-color: aliceblue;
+}
